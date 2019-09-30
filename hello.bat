@@ -1,2 +1,4 @@
-@python C:\Users\shiti\Desktop\python.py
+@python C:\Users\shiti\Desktop\Automation\python.py
 @pause   
+
+
