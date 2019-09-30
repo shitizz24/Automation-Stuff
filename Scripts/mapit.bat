@@ -1,1 +1,1 @@
-@ python C:\Users\shiti\Desktop\Automation\Scripts\mapit.py %*
+@ python C:\Users\mapit.py %*
